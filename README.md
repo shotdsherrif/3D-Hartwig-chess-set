@@ -10,3 +10,6 @@ See it in action : http://codepen.io/juliangarnier/fulldetails/BsIih
 
 * Photon : http://photon.attasi.com
 * Chess.js : https://github.com/jhlywa/chess.js
+
+
+Lets add some stuff to this file
